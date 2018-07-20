@@ -1,2 +1,2 @@
 # TopMovie
-App that displays latest too movies 
+App that displays latest top movies 
